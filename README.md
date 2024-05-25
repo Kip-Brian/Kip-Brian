@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on building cool data science projects that potentially have a positive impact in people's lives.
+- 👀 I’m interested in data, python, pandas, numpy, Keras, Pytorch, Excel
+- 🌱 I’m currently learning pandas, numpy, and data wrangling
+- 💞️ I’m looking to collaborate on building cool data science projects that potentially have a positive impact in the world.
 - 📫 How to reach me is simply through my E-mail @ briankipkoechtoo@gmail.com
 
 <!---
